@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anurag Srivastava, Web Handle - @imsrvstv.
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Django and React.
+- 👀 I’m a Software Engineer with 3+ years of IT experience.
+- 🌱 I like to learn/build new things to expand my knowledge base.
 - 💞️ I’m looking to collaborate on literally anything programming.
 - 📫 You can reach me at - imsrvstv@gmail.com
